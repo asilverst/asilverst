@@ -1,9 +1,17 @@
+![London Skyline.](https://virginiaduran.files.wordpress.com/2015/09/virginia-duran-blog-london-best-skyline-photography-waterloo-bridge.jpg)
+
 ### Hi there 👋
+
+# **CV Anna Silverstone**
+
+
+Landing page for your Git hub account that future recruiters can see
 
 <!--
 **asilverst/asilverst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+(#face-smiling)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
